@@ -1,0 +1,833 @@
+area,quartos,banheiros,vagas,preco,local
+70,2,1,1,260000,Vila Passos
+120,4,1,2,350000,Parque Mondesir
+137,3,1,2,300000,Cidade Industrial
+142,3,1,3,370000,Santo Antônio
+300,3,5,3,499000,Vila Brito
+55,2,1,1,180000,Loteamento Jardim Primavera
+72,2,1,2,320000,Vila Geny
+55,2,1,1,180000,Loteamento Jardim Primavera
+73,2,2,1,499000,Bairro da Cruz
+576,,,,290000,Parque Mondesir
+87,2,1,2,320000,Nova Lorena
+120,2,1,5,280000,Parque das Rodovias
+55,2,1,2,270000,Parque das Rodovias
+121,2,1,2,340000,Vila Nunes
+59,2,1,2,235000,Cidade Industrial
+130,3,3,2,400000,Cidade Industrial
+100,3,2,2,300000,Vila Geny
+164,3,2,3,420000,Cidade Industrial
+125,2,2,2,470000,Cidade Industrial
+250,3,3,2,650000,Bairro da Cruz
+62,2,1,1,187000,Bairro da Cruz
+10,2,1,2,250000,Loteamento Jardim Primavera
+1196,,,,480000,Vila Nunes
+55,2,1,1,220000,Centro
+70,2,2,1,320000,Bairro da Cruz
+141,3,2,1,300000,Vila dos Comerciários I
+73,2,2,,429000,Bairro da Cruz
+160,4,2,2,450000,Loteamento Jardim Primavera
+55,2,1,1,240000,Olaria
+100,2,1,2,280000,Vila Passos
+300,,,,269000,Vila Nunes
+84,2,1,1,250000,Cidade Industrial
+147,2,1,2,350000,Vila Santa Edwiges
+180,2,1,2,430000,Cidade Industrial
+157,2,1,2,345000,Residencial Vila Rica
+150,3,4,2,495000,Residencial Vila Rica
+75,2,1,2,320000,Olaria
+4000,,,,300000,Parque das Rodovias
+153,3,2,2,550000,Santo Antônio
+250,3,2,1,349000,Centro
+150,,,,180000,Bairro da Cruz
+70,2,1,2,280000,Residencial Vila Rica
+520,,,,160000,Centro
+116,2,2,1,300000,Vila São Roque
+142,2,2,1,395000,Vila Nunes
+126,,,,140000,Nova Lorena
+210,,,,180000,Cidade Industrial
+2000,,,,175000,Centro
+69,2,1,1,269000,Vila Nunes
+20000,,,,180000,Centro
+40,1,1,1,250000,Residencial Vila Rica
+196,3,3,2,500000,Vila Passos
+61,2,1,2,295000,Vila Passos
+96,2,2,1,300000,Centro
+352,,,,300000,Loteamento Lorena Village
+20000,,,,595000,Centro
+231,2,1,2,350000,Centro
+139,2,2,,318000,Parque Mondesir
+71,2,2,2,390000,Loteamento Village das Palmeiras
+75,2,1,2,395000,Loteamento Lorena Village
+782,,6,,649000,Santo Antônio
+90,3,1,2,465000,Vila Hepacare
+70,2,2,,234000,Vila Santa Edwiges
+85,2,1,2,300000,Vila Passos
+590,3,2,2,700000,Centro
+142,2,2,,375000,Vila Geny
+300,3,2,3,350000,Vila Nunes
+70,2,2,1,420000,Bairro da Cruz
+183,3,2,3,430000,Vila Nunes
+175,3,3,2,450000,Vila Nunes
+150,2,2,2,260000,Bairro da Cruz
+70,2,1,2,350000,Bairro da Cruz
+187,4,2,3,280000,Cidade Industrial
+83,2,3,1,560000,Vila Geny
+1000,,,,75000,Centro
+142,2,2,2,600000,Nova Lorena
+199,3,2,3,685000,Bairro da Cruz
+57,2,1,1,290570,Cidade Industrial
+280,3,1,2,380000,Vila Geny
+229,3,1,2,585000,Centro
+190,3,1,3,399000,Vila Nunes
+118,2,1,2,299000,Cidade Industrial
+175,,,,200000,Olaria
+180,,,,240000,Cecap
+750,,,,225000,Parque Mondesir
+180,,,,110000,Centro
+1500,,,,115000,Centro
+197,,,,130000,Centro
+82,2,1,1,243000,Vila Hepacare
+150,3,1,3,510000,Vila Geny
+103,3,1,2,290000,Vila Hepacare
+300,3,2,3,410000,Vila Nunes
+175,3,2,4,270000,Vila dos Comerciários I
+232,,,,140000,Centro
+260,,,,280000,Bairro da Cruz
+64,2,1,1,320000,Cidade Industrial
+120,3,2,2,500000,Bairro da Cruz
+500,,,,250000,Centro
+245,2,3,4,700000,Santo Antônio
+227,2,2,1,350000,Olaria
+130,3,1,2,590000,Centro
+117,4,2,2,245000,Portal das Palmeiras
+91,2,2,,450000,Cidade Industrial
+153,,,,145000,Bairro da Cruz
+220,3,1,4,349000,Vila Passos
+130,3,1,2,590000,Centro
+117,4,2,2,245000,Portal das Palmeiras
+91,2,2,,450000,Cidade Industrial
+153,,,,145000,Bairro da Cruz
+220,3,1,4,349000,Vila Passos
+960,,,,260000,Bairro da Cruz
+135,,,,212000,Bairro da Cruz
+130,3,2,1,350000,Parque Mondesir
+183,2,1,3,250000,Bairro da Cruz
+97,3,1,3,370000,Vila Nunes
+105,3,1,2,400000,Cidade Industrial
+70,2,2,1,240000,Vila Passos
+235,3,3,2,330000,Vila Nunes
+750,,,,225000,Parque Mondesir
+140,3,3,3,550000,Bairro da Cruz
+175,2,1,1,355000,Cidade Industrial
+20000,,,,190000,Centro
+112,2,3,4,650000,Vila Passos
+125,3,2,,280000,Centro
+10,3,1,1,330000,Vila São Roque
+57,2,1,1,295530,Cidade Industrial
+449,,,,279000,Bairro da Cruz
+147,2,2,,165000,Loteamento Jardim Primavera
+176,2,1,2,450000,Cidade Industrial
+142,3,4,2,700000,Bairro da Cruz
+126,,,,79000,Jardim Novo Horizonte
+115,4,2,2,450000,Bairro da Cruz
+71,2,2,1,270000,Vila Geny
+253,,,,140000,Jardim Novo Horizonte
+20753,,,,200000,Bairro da Cruz
+150,2,3,2,600000,Vila Nunes
+147,2,1,2,280000,Loteamento Jardim Primavera
+400,2,3,,399000,Centro
+108,3,1,2,350000,Santo Antônio
+750,,,,225000,Parque Mondesir
+200,3,1,3,350000,Bairro da Cruz
+4000,,,,10000000,Parque Mondesir
+87,3,2,3,520000,Vila Nunes
+300,3,4,4,499000,Vila Geny
+750,,,,225000,Parque Mondesir
+50,2,1,1,210000,Aterrado
+210,,,,140000,Cidade Industrial
+1000,,,,110000,Ponte Nova
+3000,,,,140000,Ponte Nova
+71,2,1,1,265000,Bairro da Cruz
+456,,,,280000,Vila Nunes
+125,2,1,2,280000,Bairro da Cruz
+175,2,2,3,350000,Cidade Industrial
+126,,,,78000,Jardim Novo Horizonte
+360,3,2,3,575000,Olaria
+70,2,1,1,160000,Santo Antônio
+50,2,1,1,250000,Aterrado
+55,2,1,1,189000,Aterrado
+73,3,1,3,335000,Vila Hepacare
+80,2,1,1,280000,Vila Hepacare
+300,,,,150000,Aterrado
+750,,,,225000,Parque Mondesir
+300,3,1,2,560000,Centro
+58,2,1,,279000,Bairro da Cruz
+184,3,1,1,300000,Bairro da Cruz
+60,3,2,1,380000,Parque Mondesir
+4000,3,2,5,510000,Aterrado
+150,2,1,2,270000,Olaria
+503,3,2,,400000,Cabelinha
+150,2,1,,300000,Bairro da Cruz
+300,3,2,3,400000,Vila Nunes
+2000,2,2,,300000,Centro
+142,3,2,2,350000,Santo Antônio
+187,2,2,2,280000,Nova Lorena
+3750,,,,150000,Bairro da Cruz
+2000,,,,200000,Parque das Rodovias
+175,,,,110000,Residencial Vila Rica
+125,3,1,3,630000,Bairro da Cruz
+150,,,,105000,Olaria
+350,4,3,,700000,Centro
+330,6,4,2,700000,Vila Nunes
+147,,,,85000,Loteamento Jardim Primavera
+200,2,2,4,650000,Vila Passos
+140,3,3,3,550000,Bairro da Cruz
+21000,2,2,,380000,Centro
+180,2,1,1,200000,Bairro da Cruz
+147,,,,110000,Bairro da Cruz
+1000,,,,185000,Centro
+2754,,,,850000,Cidade Industrial
+3000,,,,120000,Jardim Novo Horizonte
+147,,,,90000,Loteamento Jardim Primavera
+5000,3,4,10,1500000,Centro
+245,2,2,3,550000,Bairro da Cruz
+300,,,,268500,Cidade Industrial
+360,,,,280000,Parque Mondesir
+350,,,,410000,Loteamento Lorena Village
+53,2,1,1,270000,Bairro da Cruz
+294,,,,180000,Loteamento Jardim Primavera
+160,,,,149000,Bairro da Cruz
+67,2,2,1,419000,Vila Geny
+750,1,1,2,450000,Bairro da Cruz
+24200,,,,198000,Área Rural de Lorena
+450,2,1,1,249000,Vila São Roque
+108,2,1,,290000,Bairro da Cruz
+500,4,4,10,1500000,Centro
+70,1,1,1,235000,Vila Santa Edwiges
+100,3,1,2,275000,Vila Hepacare
+49,2,1,1,189000,Aterrado
+49,2,1,1,220000,Aterrado
+344,,,,319000,Loteamento Lorena Village
+70,1,1,1,235000,Vila Santa Edwiges
+100,3,1,2,275000,Vila Hepacare
+49,2,1,1,189000,Aterrado
+49,2,1,1,220000,Aterrado
+344,,,,319000,Loteamento Lorena Village
+58,2,1,1,290000,Vila Passos
+58,2,1,1,290000,Vila Passos
+420,,,,220000,Cidade Industrial
+49,2,1,,190000,Bairro da Cruz
+74,2,1,1,350000,Bairro da Cruz
+200,4,2,4,371000,Bairro da Cruz
+150,2,2,,510000,Centro
+190,3,1,1,240000,Centro
+144,,,,140000,Vila Hepacare
+513,,,,350000,Parque Mondesir
+750,4,3,2,600000,Centro
+125,2,1,,260000,Vila Brito
+180,3,3,5,750000,Vila Hepacare
+148,3,1,2,498000,Bairro da Cruz
+107,2,1,,250000,Santo Antônio
+101640,4,2,,550000,Mondesir
+198,,,,129000,Olaria
+70,2,1,2,345000,Vila Santa Edwiges
+360,,,,320000,Bairro da Cruz
+210,,,,140000,Cidade Industrial
+272,,,,240000,Loteamento Village das Palmeiras
+140,3,2,1,290000,Centro
+113,3,2,1,300000,Santo Antônio
+91900,3,4,3,1000000,Olaria
+140,3,3,3,550000,Bairro da Cruz
+65,2,1,2,340000,Vila Geny
+170,,,,84168,Aterrado
+121,3,3,2,360000,Vila Nunes
+405,2,1,4,480000,Bairro da Cruz
+10,3,1,2,450000,Vila Nunes
+1200,1,1,,180000,Área Rural de Lorena
+162,2,2,1,456000,Olaria
+140,3,3,3,550000,Bairro da Cruz
+170,3,2,2,599000,Cabelinha
+5125,2,1,6,740000,Bairro da Cruz
+432,,,,295000,Parque Mondesir
+170,3,3,2,480000,Nova Lorena
+168,2,1,1,340000,Bairro da Cruz
+55,2,1,1,250000,Olaria
+250,3,1,,372000,Bairro da Cruz
+1275,,,,200000,Aterrado
+147,,,,130000,Loteamento Jardim Primavera
+733,,,,380000,Bairro da Cruz
+175,,,,84000,Parque das Rodovias
+147,,,,90000,Loteamento Jardim Primavera
+58,2,1,1,280000,Vila Passos
+80,2,2,1,390000,Nova Lorena
+147,,,,109000,Loteamento Jardim Primavera
+762,,,,600000,Santo Antônio
+147,2,1,2,280000,Loteamento Jardim Primavera
+185,,,,100000,Loteamento Jardim Primavera
+54,2,1,1,280000,Vila Hepacare
+55,2,1,1,250000,Olaria
+300,,,,175000,Vila Portugal
+1600,,,,250000,Aterrado
+55,2,1,1,300000,Parque das Rodovias
+52,2,2,,270000,Centro
+147,,,,90000,Loteamento Jardim Primavera
+300,,,,175000,Parque das Rodovias
+175,,,,117000,Parque das Rodovias
+107,2,1,2,280000,Cecap
+720,,,,380000,Vila Passos
+360,,,,280000,Olaria
+162,2,2,1,456000,Olaria
+158,,,,95000,Bairro da Cruz
+300,2,1,,375000,Bairro da Cruz
+125,2,2,1,390000,Olaria
+149,,,,90000,Vila Brito
+70,2,2,1,275000,Vila Passos
+150,,,,157000,Vila Nunes
+248,3,1,2,500000,Bairro da Cruz
+96,2,1,2,289000,Residencial Vila Rica
+175,,,,198000,Bairro da Cruz
+49,2,1,1,220000,Aterrado
+225,,,,180000,Cidade Industrial
+162,2,2,1,456000,Olaria
+330,2,2,,210000,Centro
+175,,,,110000,Bairro da Cruz
+100,2,1,1,310000,Centro
+250,,,,250000,Centro
+140,3,3,3,550000,Bairro da Cruz
+137,3,2,,300000,Centro
+20000,,,,130000,Centro
+81,2,1,1,300000,Cidade Industrial
+193,3,2,2,550000,Bairro da Cruz
+270,4,2,1,360000,Bairro da Cruz
+103,2,1,1,320000,Centro
+363,2,1,,320000,Bairro da Cruz
+140,3,3,3,550000,Bairro da Cruz
+160,2,3,2,450000,Nova Lorena
+320,3,1,2,550000,Bairro da Cruz
+72,2,2,1,350000,Bairro da Cruz
+280,2,2,1,575000,Bairro da Cruz
+444,,,,300000,Cidade Industrial
+245,3,3,5,730000,Cidade Industrial
+197,3,2,4,500000,Vila Geny
+90,2,4,2,410000,Nova Lorena
+733,,,,199000,Vila Passos
+600,,,,300000,Vila Portugal
+210,2,1,2,425000,Cidade Industrial
+197,3,2,4,500000,Vila Geny
+90,2,4,2,410000,Nova Lorena
+733,,,,199000,Vila Passos
+600,,,,300000,Vila Portugal
+210,2,1,2,425000,Cidade Industrial
+612,,,,300000,Cidade Industrial
+160,1,1,,220000,Bairro da Cruz
+20000,,,,300000,Centro
+70,1,1,1,234000,Vila Santa Edwiges
+72,2,2,1,340000,Vila Santa Edwiges
+420,2,1,4,390000,Bairro da Cruz
+107,5,7,3,18000000,Centro
+186,3,2,1,320000,Vila dos Comerciários I
+432,,,,320000,Parque Mondesir
+434,,,,318000,Bairro da Cruz
+120,3,1,1,310000,Vila dos Comerciários I
+58,2,1,1,270000,Vila Passos
+150,,,,250000,Bairro da Cruz
+175,2,1,2,580000,Loteamento Village das Palmeiras
+250,,,,299000,Olaria
+182,2,1,1,250000,Centro
+80,,,,345000,Centro
+53,2,1,1,250000,Cidade Industrial
+246,5,4,6,480000,Santo Antônio
+64,2,2,1,385000,Vila Nunes
+160,3,1,1,259000,Vila Passos
+2578,,,,745000,Cidade Industrial
+44,2,1,1,215000,Aterrado
+2400,1,1,,240000,Área Rural de Lorena
+153,3,2,2,910000,Centro
+57,2,1,1,271410,Cidade Industrial
+82,,2,1,550000,Vila Hepacare
+5000,3,3,3,1450000,Bairro da Cruz
+64,2,1,2,385000,Vila Nunes
+300,3,1,2,540000,Bairro da Cruz
+112,2,1,2,300000,Santo Antônio
+300,,,,500000,Vila Nunes
+125,,,,115000,Bairro da Cruz
+1320,1,1,,150000,Área Rural de Lorena
+70,2,1,1,400000,Bairro da Cruz
+83,3,2,1,670000,Vila Geny
+48,2,2,1,199990,Santo Antônio
+53,2,1,1,299000,Vila Hepacare
+67,2,1,,480000,Vila Geny
+60,1,1,,530000,Bairro da Cruz
+75,2,2,2,340000,Vila Passos
+99,2,1,1,320000,Vila Nunes
+576,,,,290000,Parque Mondesir
+54,2,1,1,187000,Cidade Industrial
+350,3,3,,750000,Centro
+1650,3,4,,1200000,Centro
+523,,,,300000,Parque Mondesir
+5000,2,1,,748000,Bairro da Cruz
+120,3,2,2,466000,Bairro da Cruz
+141,1,1,2,380000,Bairro da Cruz
+258,3,3,2,570000,Nova Lorena
+84700,2,1,,500000,Jardim Novo Horizonte
+360,3,2,,495000,Cidade Industrial
+22000,2,1,2,320000,Área Rural de Lorena
+160,2,3,,550000,Nova Lorena
+137,2,2,2,340000,Cidade Industrial
+126,2,3,6,450000,Santo Antônio
+47,2,1,10,350000,Vila Hepacare
+64,2,1,1,370000,Vila Nunes
+300,5,5,4,1050000,Vila São Roque
+180,3,1,1,480000,Vila Nunes
+192,3,1,1,320000,Nova Lorena
+183,,,,100000,Residencial Vila Rica
+162,2,2,1,456000,Olaria
+722,,,,350000,Centro
+1500,2,,5,650000,Centro
+72,,,,159000,Loteamento Village das Palmeiras
+210,,,,170000,Cidade Industrial
+272,3,2,2,730000,Bairro da Cruz
+130,2,1,2,299000,Cidade Industrial
+297,,,,320000,Vila Passos
+124,3,4,2,1650000,Bairro da Cruz
+87,2,2,2,385000,Parque das Rodovias
+250,3,4,1,499000,Centro
+450,3,1,,330000,Bairro da Cruz
+300,,,,500000,Vila Nunes
+360,3,1,2,450000,Bairro da Cruz
+205,,,,210000,Loteamento Village das Palmeiras
+450,,,,300000,Bairro da Cruz
+330,3,2,2,1250000,Centro
+149,3,1,2,435000,Parque Mondesir
+3668,1,1,,270000,Área Rural de Lorena
+150,2,1,2,330000,Cidade Industrial
+153,3,2,2,910000,Loteamento Village das Palmeiras
+300,,,,355000,Bairro da Cruz
+491,,,,290000,Parque Mondesir
+112,3,2,2,450000,Vila Nunes
+330,,,,299000,Centro
+750,,,,607000,Bairro da Cruz
+193,,,,105000,Residencial Vila Rica
+162,2,2,1,456000,Olaria
+280,2,2,1,279000,Vila Passos
+375,3,1,2,550000,Bairro da Cruz
+150,,,,130000,Bairro da Cruz
+140,3,3,2,480000,Vila Nunes
+202,4,3,4,600000,Cidade Industrial
+214,3,2,5,350000,Vila Passos
+49,2,1,1,190000,Aterrado
+90,2,2,1,240000,Vila São Roque
+300,,,,500000,Vila Nunes
+202,4,3,4,600000,Cidade Industrial
+214,3,2,5,350000,Vila Passos
+49,2,1,1,190000,Aterrado
+90,2,2,1,240000,Vila São Roque
+300,,,,500000,Vila Nunes
+1000,1,2,,740000,Bairro da Cruz
+1000,,,,600000,Bairro da Cruz
+250,3,1,,450000,Bairro da Cruz
+506,,,,340000,Parque Mondesir
+115,2,2,1,399000,Cidade Industrial
+368,,,,270000,Parque Mondesir
+900,,,,424000,Bairro da Cruz
+232,,,,145000,Centro
+352,,,,308000,Loteamento Lorena Village
+232,3,1,1,395000,Olaria
+360,4,2,2,450000,Vila Hepacare
+187,3,1,,440000,Bairro da Cruz
+283,3,2,4,895000,Vila Nunes
+48400,3,3,,800000,Centro
+69,2,1,,247500,Parque das Rodovias
+67,2,1,1,480000,Vila Geny
+300,3,1,4,1000000,Centro
+300,1,1,4,250000,Vila Nunes
+280,6,4,3,720000,Bairro da Cruz
+400,2,2,3,399000,Bairro da Cruz
+300,,,,500000,Vila Nunes
+64,2,2,1,370000,Vila Nunes
+239,3,2,4,730000,Parque Mondesir
+200,4,2,2,390000,Olaria
+312,,3,,650000,Vila Hepacare
+72,2,2,1,370000,Bairro da Cruz
+50,2,1,1,220000,Santo Antônio
+124,3,1,5,450000,Vila Geny
+506,,,1,340000,Bairro da Cruz
+110,2,3,2,560000,Olaria
+78,2,1,1,280000,Vila Geny
+162,2,2,1,456000,Olaria
+180,3,2,,1300000,Mondesir
+211,4,3,3,450000,Santo Antônio
+206300,,,,6500000,Parque Mondesir
+107,,,,18000000,Área Rural de Lorena
+300,,,,500000,Vila Nunes
+190,3,1,2,795000,Centro
+300,2,1,1,450000,Bairro da Cruz
+158,3,1,1,450000,Vila Hepacare
+2280,,,,450000,Bairro da Cruz
+60,2,2,2,400000,Santo Antônio
+300,4,1,4,980000,Bairro da Cruz
+750,,,,900000,Bairro da Cruz
+112,3,1,,215000,Santo Antônio
+153,3,3,2,920000,Loteamento Village das Palmeiras
+115,1,2,10,250000,Santo Antônio
+1520,3,6,9,900000,Aterrado
+86,2,1,1,500000,Vila Passos
+353,,,,372000,Loteamento Lorena Village
+16250,4,3,10,2800000,Vila Portugal
+450,2,1,4,730000,Bairro da Cruz
+360,,,,320000,Parque Mondesir
+51,2,1,1,200000,Santo Antônio
+210,,,,100000,Jardim Novo Horizonte
+201,3,3,4,550000,Vila Nunes
+732,,,,330000,Vila Passos
+64,2,2,1,395000,Vila Nunes
+150,2,1,2,350000,Bairro da Cruz
+474,3,1,3,750000,Parque Mondesir
+89,2,1,,220000,Vila Brito
+250,3,1,3,550000,Bairro da Cruz
+300,,3,1,500000,Vila Nunes
+90,4,2,2,480000,Vila Hepacare
+196,3,2,2,450000,Vila Nunes
+16100,,,,899000,Jardim Novo Horizonte
+142,2,2,2,600000,Nova Lorena
+703,,,,820000,Loteamento Lorena Village
+65,2,1,1,320000,Bairro da Cruz
+58,2,1,1,270000,Vila Passos
+210,3,2,4,490000,Cidade Industrial
+230,2,1,2,920000,Bairro da Cruz
+124,3,3,2,1150000,Bairro da Cruz
+420,,2,,550000,Vila Santa Edwiges
+250,,2,,400000,Bairro da Cruz
+360,1,1,1,280000,Vila Brito
+161,3,1,,395000,Bairro da Cruz
+71,3,2,,300000,Bairro da Cruz
+400,3,2,12,980000,Vila Portugal
+170,3,3,1,590000,Cabelinha
+282,4,3,1,890000,Vila Hepacare
+250,2,3,10,750000,Centro
+60,2,1,2,290000,Portal das Palmeiras
+221,3,3,4,1000000,Bairro da Cruz
+170,3,1,2,850000,Nova Lorena
+12000,4,1,,980000,Área Rural de Lorena
+180,3,2,2,650000,Parque Mondesir
+750,,,,370000,Centro
+150,,1,,550000,Bairro da Cruz
+302,4,5,4,890000,Olaria
+210,2,2,2,420000,Cidade Industrial
+2754,,,,800000,Cidade Industrial
+169400,,,,900000,Centro
+1500,,,,795000,Centro
+194,3,3,1,629600,Loteamento Village das Palmeiras
+507,,,,360000,Vila Passos
+100,3,2,3,460000,Cidade Industrial
+280,2,3,4,730000,Cidade Industrial
+288,3,2,,480000,Bairro da Cruz
+194,3,3,1,629600,Loteamento Village das Palmeiras
+507,,,,360000,Vila Passos
+100,3,2,3,460000,Cidade Industrial
+280,2,3,4,730000,Cidade Industrial
+288,3,2,,480000,Bairro da Cruz
+91000,,,,585000,Centro
+2754,,,,700000,Cidade Industrial
+85,2,2,1,350000,Parque Mondesir
+4000,4,1,,430000,Centro
+84,3,2,3,530000,Vila Nunes
+1219,,,,650000,Bairro da Cruz
+275,3,3,4,1100000,Loteamento Lorena Village
+2754,,,,800000,Cidade Industrial
+1265,,,,700000,Bairro da Cruz
+120,3,1,,550000,Bairro da Cruz
+482,,8,3,1350000,Jardim Margarida
+19,1,1,,5652000,Centro
+138,3,1,2,420000,Cidade Industrial
+21000,3,2,,600000,Centro
+153,3,2,2,961200,Loteamento Village das Palmeiras
+130,3,4,2,435000,Centro
+432,,,,320000,Parque Mondesir
+936,,,,950000,Bairro da Cruz
+110,2,2,2,360000,Cidade Industrial
+353,,,,375000,Centro
+144,3,3,2,849000,Loteamento Village das Palmeiras
+2754,,,,800000,Cidade Industrial
+153,3,3,2,960000,Loteamento Village das Palmeiras
+650,,,,450000,Parque Mondesir
+300,,,,500000,Vila Nunes
+16000,,,,950000,Bairro da Cruz
+378,4,1,6,1300000,Centro
+2754,,,,800000,Cidade Industrial
+2189,2,2,,845000,Bairro da Cruz
+130,3,2,1,700000,Bairro da Cruz
+2754,,,,800000,Cidade Industrial
+63,2,1,1,200000,Cidade Industrial
+160,3,4,2,1100000,Olaria
+552,3,4,3,799000,Parque Mondesir
+88,4,3,2,600000,Cecap
+5712,5,,5,1800000,Bairro da Cruz
+550000,,,,25000000,Vila Nunes
+203,2,1,4,500000,Centro
+350,3,1,3,890000,Bairro da Cruz
+53,2,1,1,320000,Vila Hepacare
+750,5,2,6,2500000,Bairro da Cruz
+57,1,1,4,455000,Vila São Roque
+125,3,3,3,980000,Bairro da Cruz
+750,3,1,3,1200000,Bairro da Cruz
+210,4,2,2,680000,Bairro da Cruz
+5000,4,4,10,1199000,Aterrado
+150,4,1,2,800000,Loteamento Lorena Village
+142,2,1,4,480000,Nova Lorena
+267,4,4,4,1200000,Bairro da Cruz
+294,2,2,7,899000,Parque Mondesir
+150,3,2,4,630000,Olaria
+280,2,2,1,650000,Vila Passos
+244,4,1,3,845000,Nova Lorena
+314600,,,,950000,Centro
+290,6,4,1,780000,Cabelinha
+153,3,3,2,960000,Loteamento Village das Palmeiras
+150,3,2,1,550000,Cabelinha
+280,,,,450000,Bairro da Cruz
+330,3,1,,499000,Centro
+210,3,1,4,950000,Centro
+1200,,,,2550000,Centro
+26000,,,,800000,Bairro da Cruz
+360,,,,474000,Bairro da Cruz
+48,2,1,1,216000,Santo Antônio
+75,2,1,2,330000,Parque das Rodovias
+2500,3,1,,990000,Centro
+315,2,1,,680000,Bairro da Cruz
+8000,3,1,,1000000,Centro
+372,,2,1,700000,Bairro da Cruz
+10000,,,,2500000,Aterrado
+200,4,3,1,599000,Bairro da Cruz
+750,,,,1690000,Bairro da Cruz
+258,3,3,1,680000,Bairro da Cruz
+196,4,4,2,600000,Vila Geny
+150,2,2,2,610000,Bairro da Cruz
+210,2,2,2,800000,Cidade Industrial
+300,3,2,4,870000,Ponte Nova
+2754,,,,800000,Cidade Industrial
+380000,,,,17100000,Bairro da Cruz
+800,,,,14820000,Vila Brito
+1000,3,1,,210000,Centro
+203,3,1,3,850000,Parque Mondesir
+100,3,4,2,980000,Bairro da Cruz
+125,3,4,2,1150000,Bairro da Cruz
+63,2,1,1,200000,Cidade Industrial
+720600,,,,3000000,Área Rural de Lorena
+3207,,,,1150000,Centro
+211,2,3,2,950000,Bairro da Cruz
+280,3,3,3,750000,Parque Mondesir
+1500,,,,2800000,Bairro da Cruz
+359,5,2,,320000,Bairro da Cruz
+280,4,4,4,889000,Centro
+420,,,,3000000,Vila Passos
+750,4,5,3,1200000,Bairro da Cruz
+450,,,,1060000,Vila Hepacare
+235,4,3,1,405000,Centro
+194,3,3,3,650000,Cidade Industrial
+363000,3,3,,1500000,Centro
+211,3,2,7,700000,Vila Santa Edwiges
+3750,,,,135000,Centro
+235,4,3,1,405000,Centro
+194,3,3,3,650000,Cidade Industrial
+363000,3,3,,1500000,Centro
+211,3,2,7,700000,Vila Santa Edwiges
+3750,,,,135000,Centro
+750,7,4,10,750000,Bairro da Cruz
+482,,8,2,1350000,Nova Lorena
+259,3,2,,18000000,Centro
+133100,,,,795000,Centro
+150,2,2,2,610000,Bairro da Cruz
+84700,2,2,,400000,Bairro da Cruz
+10000,,,,2500000,Aterrado
+16240,4,2,1,2800000,Vila Portugal
+242,2,1,,650000,Vila Hepacare
+193600,2,1,,850000,Centro
+115,3,2,1,480000,Centro
+3000,,,,14700000,Centro
+1452000,4,4,,4200000,Ponte Nova
+4049,,,,6600000,Santo Antônio
+999944,,,,78000000,Bairro da Cruz
+90,3,1,,465000,Cidade Industrial
+130,3,1,4,650000,Olaria
+350,3,3,3,1350000,Vila Nunes
+133,2,1,2,550000,Cidade Industrial
+1452000,,,,4800000,Centro
+140000,6,1,,1800000,Área Rural de Lorena
+4049,,,,6600000,Santo Antônio
+147,2,1,3,680000,Vila Geny
+184,3,3,3,1220000,Loteamento Lorena Village
+3200,,,,1500000,Bairro da Cruz
+4138,,,80,12000000,Centro
+120,,,,46000000,Centro
+627600,4,6,10,14700000,Centro
+5460,,,,3000000,Bairro da Cruz
+1000,,,,23000000,Área Rural de Lorena
+124,3,1,2,1350000,Bairro da Cruz
+2,,,,360000,Vila Portugal
+7500,,,,1300000,Bairro da Cruz
+210,2,1,,400000,Bairro da Cruz
+214,4,2,3,625000,Centro
+330,3,2,1,900000,Jardim Margarida
+10000,,,,2500000,Aterrado
+124,3,3,2,1150000,Bairro da Cruz
+210,2,4,2,425000,Cidade Industrial
+290400,1,,,1900000,Área Rural de Lorena
+180,,1,,1350000,Bairro da Cruz
+1289,5,5,8,2200000,Centro
+91,2,2,,450000,Centro
+900,4,3,10,1600000,Bairro da Cruz
+97,2,2,1,425000,Parque Mondesir
+300000,,,,24000000,Aterrado
+142,2,1,1,450000,Vila Hepacare
+196000,,,10,4880000,Centro
+324,2,1,,980000,Bairro da Cruz
+4049,,,,6600000,Santo Antônio
+330,3,1,,900000,Bairro da Cruz
+5808000,,,,10000000,Ponte Nova
+128,1,2,,265000,Vila Santa Edwiges
+750,,,,1200000,Bairro da Cruz
+160,3,1,,1000000,Bairro da Cruz
+215,3,2,2,699000,Bairro da Cruz
+300,3,1,4,1000000,Bairro da Cruz
+379000,,,,15169960,Centro
+70200,5,1,,2000000,Área Rural de Lorena
+1125,,2,,1800000,Bairro da Cruz
+37,,,,300000,Nova Lorena
+4000,4,1,,1950000,Bairro da Cruz
+600,,,,800000,Centro
+750,4,2,6,1499000,Bairro da Cruz
+2500,,,,200000,Centro
+450,5,2,4,980000,Bairro da Cruz
+1000,,,,990000,Bairro da Cruz
+419,4,1,1,980000,Bairro da Cruz
+326,4,3,3,1100000,Centro
+290400,3,1,,1800000,Centro
+210,,,,150000,Cidade Industrial
+700,,6,,820000,Bairro da Cruz
+2754,,,,800000,Cidade Industrial
+1200,,10,50,5300000,Bairro da Cruz
+147,,2,,235000,Loteamento Jardim Primavera
+900,,,,1599000,Bairro da Cruz
+38,1,1,1,150000,Cabelinha
+0,4,3,4,6000000,Área Rural de Lorena
+17404,,,,13923200,Bairro da Cruz
+310000,,,,31000000,Centro
+2000,2,2,6,9500000,Bairro da Cruz
+100,3,1,2,1100000,Bairro da Cruz
+1246300,,,,4000000,Jardim Novo Horizonte
+321,3,2,4,1100000,Centro
+10000,5,,,14700000,Olaria
+225,3,1,4,1060000,Vila Hepacare
+500,5,4,4,1390000,Bairro da Cruz
+242,,2,,1350000,Centro
+1040600,,,,3000000,Centro
+361,3,2,3,1499000,Centro
+199,2,1,2,780000,Parque Mondesir
+132878,,,,7500000,Parque das Rodovias
+440000,4,1,,25000000,Área Rural de Lorena
+300,,,,480000,Vila Nunes
+2468400,3,2,,16000000,Área Rural de Lorena
+2200,3,1,4,2000000,Bairro da Cruz
+190700,,,,5300000,Área Rural de Lorena
+1890000,,,,5500000,Jardim Novo Horizonte
+2700,,,,2500000,Bairro da Cruz
+1087,,,,1600000,Olaria
+2200,3,1,4,2000000,Bairro da Cruz
+190700,,,,5300000,Área Rural de Lorena
+1890000,,,,5500000,Jardim Novo Horizonte
+2700,,,,2500000,Bairro da Cruz
+1087,,,,1600000,Olaria
+42478,,,,5100000,Ponte Nova
+2226400,,,,13500000,Ponte Nova
+331,6,2,3,800000,Bairro da Cruz
+2900,,,,2300000,Bairro da Cruz
+381,3,3,4,1200000,Parque Mondesir
+171,1,2,1,380000,Vila dos Comerciários I
+264,3,5,4,2000000,Bairro da Cruz
+2700,,,,2500000,Bairro da Cruz
+360,3,2,3,990000,Parque Mondesir
+330,3,2,2,2128000,Centro
+382,7,4,2,2600000,Bairro da Cruz
+2500,4,2,2,6300000,Área Rural de Lorena
+100,3,1,,1100000,Bairro da Cruz
+4049,,,,6600000,Santo Antônio
+100,3,1,2,900000,Bairro da Cruz
+2700,,,,4500000,Bairro da Cruz
+23687,2,1,,1500000,Área Rural de Lorena
+4049,,,,6600000,Santo Antônio
+1000,2,2,8,16000000,Bairro da Cruz
+382,4,4,6,2600000,Bairro da Cruz
+136,3,1,,950000,Vila Hepacare
+510000,,,,10200000,Centro
+750,,,,1500000,Bairro da Cruz
+500000,,,,40000000,Loteamento Jardim Primavera
+4049,,,,6600000,Santo Antônio
+2796,,,,2100000,Bairro da Cruz
+1500,,,,1100000,Bairro da Cruz
+3600,,,,10000000,Vila Passos
+750,3,2,,1300000,Bairro da Cruz
+55980,,,,7300000,Santa Lucrécia
+3500,,,,4300000,Vila Passos
+600,3,2,4,699000,Parque Mondesir
+2700,,,,1650000,Bairro da Cruz
+1,3,1,2,1500000,Cidade Industrial
+363000000,1,1,3,6500000,Centro
+950,,,,360000,Aterrado
+2975,,,,2100000,Bairro da Cruz
+750,4,1,4,2480000,Bairro da Cruz
+1400900,,,,6960000,Área Rural de Lorena
+1,3,1,,1500000,Bairro da Cruz
+10,1,1,,4880000,Jardim Novo Horizonte
+300,3,2,,1750000,Vila Nunes
+319,4,1,6,1800000,Vila Geny
+2795,,,,2100000,Bairro da Cruz
+2250,2,3,,960000,Centro
+247,2,2,,799000,Parque Mondesir
+799,3,3,5,1600000,Centro
+100,4,4,1,1000000,Centro
+218,,,,6900000,Área Rural de Lorena
+656,3,3,3,1499000,Centro
+1000,3,1,,1500000,Bairro da Cruz
+56000,,,,6000000,Vila Passos
+300,2,1,,1150000,Bairro da Cruz
+21000,,,,21000000,Parque Mondesir
+56000,,,,7300000,Bairro da Cruz
+430,3,2,,1380000,Bairro da Cruz
+750,5,1,6,2500000,Bairro da Cruz
+750,3,1,,3392000,Bairro da Cruz
+1452000,4,,2,4200000,Bairro da Cruz
+600,4,1,2,1900000,Bairro da Cruz
+1800,,,,2250000,Bairro da Cruz
+550,9,6,,3000000,Centro
+800,3,,6,6000000,Centro
+248,3,2,11,1500000,Bairro da Cruz
+429,6,2,2,1600000,Centro
+999,7,6,,13990000,Centro
+99,3,2,2,850000,Bairro da Cruz
+495,3,1,,1300000,Bairro da Cruz
+7380,,10,,15900000,Vila Hepacare
+200,7,,10,16500000,Olaria
+1800,50,50,35,7500000,Bairro da Cruz
+750,5,5,5,2500000,Bairro da Cruz
+382,8,5,5,2760000,Bairro da Cruz
+999944,,,,78000000,Bairro da Cruz
+429,7,5,2,1600000,Centro
+350,,1,,1380000,Centro
+264,3,3,,2000000,Bairro da Cruz
+309,1,1,,2400000,Vila São Roque
+4000,,,,11800000,Centro
+380000,,,,17100000,Bairro da Cruz
+330,4,1,2,2100000,Bairro da Cruz
+500,1,1,,4880000,Mondesir
+10000,,,,2000000,Aterrado
+400,3,2,2,1000000,Vila Nunes
+1500,,6,50,8000000,Loteamento Colinas de Lorena
+264,3,5,4,2000000,Bairro da Cruz
+90,5,2,,6500000,Centro
+13900,12,8,50,3500000,Aterrado
+600,6,5,3,1300000,Jardim Margarida
+100,1,1,3,6500000,Centro
+1600,14,16,4,2300000,Vila Nunes
+4000,7,12,5,1800000,Aterrado
+382,8,5,6,2489660,Bairro da Cruz
